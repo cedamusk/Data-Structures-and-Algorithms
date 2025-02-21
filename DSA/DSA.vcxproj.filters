@@ -21,5 +21,8 @@
     <ClCompile Include="stackArray.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="stackLinkedList.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
